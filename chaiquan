@@ -1,0 +1,4 @@
+var i = 0;
+for (int i=0;i++;i<=10){
+  print intln "第"+i+"只柴犬诞生啦！！！";
+}
